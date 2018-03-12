@@ -1,0 +1,7 @@
+airswap.py
+airswap.egg-info/PKG-INFO
+airswap.egg-info/SOURCES.txt
+airswap.egg-info/dependency_links.txt
+airswap.egg-info/entry_points.txt
+airswap.egg-info/requires.txt
+airswap.egg-info/top_level.txt
